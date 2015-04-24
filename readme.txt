@@ -8,7 +8,7 @@ Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+A simple plugin to scroll to the top! Impossible to be easier than this one!
 
 == Description ==
 
@@ -27,18 +27,25 @@ A simple plugin to scroll to the top
 
 Not YET.
 
+= The scroll is not smooth! What can I do? =
+
+This plugin requires jQuery. Check if jQuery is being called correctly .
+
+= If I found some problem, should I report you? = 
+
+Yes, of course you should! Just email, me: sergio.costa@outlook.com ! Thank you! ;)
+
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. Simple button to back to top
 
 == Changelog ==
 
 = 1.0 =
 * Plugin created
+
+= 1.1 =
+* Tested up to WordPress 4.2
 
 == Upgrade Notice ==
 
