@@ -3,7 +3,7 @@
  * Plugin Name: SC To Top
  * Plugin URI: https://profiles.wordpress.org/sergiuscosta
  * Description: A button that allows the users to reach the top of the page
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Sergio Costa
  * Author URI: http://sergiocosta.net.br/
  * Text Domain: sctotop
